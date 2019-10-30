@@ -1,0 +1,9 @@
+name: nginx
+os: Debian, Ubuntu, RedHat, Fedora, CentOS, Suse, openSUSE
+os_family: Debian, RedHat, Suse
+version: 2.3.1
+release: 1
+minimum_version: 2017.3
+summary: nginx formula
+description: Formula to use to install and configure nginx
+top_level_dir: nginx
