@@ -51,7 +51,7 @@ verifier:
   sudo: true
   # cli, documentation, html, progress, json, json-min, json-rspec, junit
   reporter:
-    - junit
+    - cli
 
 suites:
   - name: default
